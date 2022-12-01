@@ -1,0 +1,13 @@
+body
+{
+   background-color: cornflowerblue;
+}
+
+canvas
+{
+    border: 4px solid burlywood;
+    border-radius:15px;
+    margin-top: 230px;
+    box-shadow: 5px 5px 5px rgb(164, 131, 21);
+    
+}
